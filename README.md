@@ -23,3 +23,4 @@ Python, Streamlit, pandas, scikit-learn, Plotly
 pip install -r requirements.txt
 streamlit run coffee-health-code.py
 ```
+Note: the dashboard interface is in Russian
