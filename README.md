@@ -11,7 +11,7 @@ Interactive Streamlit dashboard analyzing how coffee consumption relates to slee
 
 ## Dataset
 
-`synthetic_coffee_health_10000.csv` contains 10,000 synthetic records. Results are for demonstration only.
+`coffee_health_10000.csv` contains 10,000 synthetic records. Results are for demonstration only.
 
 ## Tech Stack
 
